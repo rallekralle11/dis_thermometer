@@ -1,1 +1,1 @@
-![pic](väggtermoeter_h.jpg)
+![pic](termometer_h.jpg)
