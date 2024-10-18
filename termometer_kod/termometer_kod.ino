@@ -34,7 +34,7 @@ void setup() {
 
   EEPROM.begin(1);
   mode = EEPROM.read(0);
-  mode = 3;
+  mode = 4;
 
   pinMode(3, INPUT);
 
