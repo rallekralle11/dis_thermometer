@@ -34,7 +34,7 @@ void setup() {
 
   EEPROM.begin(1);
   mode = EEPROM.read(0);
-  mode = 4;
+  mode = 3;
 
   pinMode(3, INPUT);
 
@@ -159,7 +159,7 @@ void utalltid(){ //alltid igång, ute
     if(millis() - mil > termistorcykel){
       mil = millis();
     plexy.clear();
-    ext = externtemp.temperature() + cal;} //kolla temp ibland
+    ext = externtemp.temperature() + cal + 4;} //kolla temp ibland
 
     }
 
