@@ -15230,7 +15230,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5,1kΩ"
+		(property "Value" "10kΩ"
 			(at 30.48 93.98 0)
 			(effects
 				(font

@@ -1,0 +1,7 @@
+### Footprint positions - created on 2024-11-17T22:08:11+0100 ###
+### Printed by KiCad version 8.0.6-8.0.6-0~ubuntu24.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                      Package                                        PosX       PosY       Rot  Side
+J1        USB_C_Receptacle_USB2.0  USB_C_Receptacle_G-Switch_GT-USB-7010ASV    29.8362     8.1158  -90.0000  bottom
+## End

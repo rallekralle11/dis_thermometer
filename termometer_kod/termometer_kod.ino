@@ -15,7 +15,7 @@ int ext;
 const int cykel = 500;
 const int periodvaken = 4000;
 const int termistorcykel = 10000;
-const int cal = 32;
+const int cal = 22; //prot 32
 unsigned long mil;
 unsigned long milvakna;
 
@@ -34,7 +34,7 @@ void setup() {
 
   EEPROM.begin(1);
   mode = EEPROM.read(0);
-  mode = 3;
+  mode = 4;
 
   pinMode(3, INPUT);
 
