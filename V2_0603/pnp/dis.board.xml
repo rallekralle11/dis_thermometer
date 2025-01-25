@@ -1,0 +1,659 @@
+<openpnp-board version="1.1" name="dis.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <fiducials/>
+   <placements>
+      <placement version="1.4" id="C1" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="5.541" y="14.241" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C3" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="25.341" y="28.591" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C4" side="Top" part-id="C_0603_1608Metric-1µF" type="Placement" enabled="false">
+         <location units="Millimeters" x="31.041" y="42.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C5" side="Top" part-id="C_0603_1608Metric-TBD" type="Placement" enabled="false">
+         <location units="Millimeters" x="20.541" y="33.591" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C6" side="Top" part-id="C_0603_1608Metric-TBD" type="Placement" enabled="false">
+         <location units="Millimeters" x="20.791" y="29.091" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C7" side="Top" part-id="C_0603_1608Metric-NC" type="Placement" enabled="false">
+         <location units="Millimeters" x="27.291" y="40.041" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C8" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="7.041" y="14.241" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C9" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="28.991" y="37.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C10" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="31.091" y="33.091" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C11" side="Top" part-id="C_0603_1608Metric-1µF" type="Placement" enabled="false">
+         <location units="Millimeters" x="21.241" y="11.591" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C12" side="Top" part-id="C_0603_1608Metric-1µF" type="Placement" enabled="false">
+         <location units="Millimeters" x="21.241" y="14.541" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C13" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="28.391" y="26.941" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C14" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="10.041" y="17.541" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C15" side="Top" part-id="C_0603_1608Metric-10uF" type="Placement" enabled="false">
+         <location units="Millimeters" x="4.2535" y="18.051" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C16" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="23.541" y="28.591" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C17" side="Top" part-id="C_0603_1608Metric-TBD" type="Placement" enabled="false">
+         <location units="Millimeters" x="24.041" y="179.841" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C21" side="Top" part-id="C_0603_1608Metric-100nF" type="Placement" enabled="false">
+         <location units="Millimeters" x="26.541" y="176.541" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D1" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="182.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D2" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="180.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D3" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="146.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D4" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="144.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D5" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="114.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D6" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="112.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D7" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="90.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D8" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="88.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D9" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="74.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D10" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="72.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D11" side="Top" part-id="LED_0603_1608Metric-LED_CHR" type="Placement" enabled="false">
+         <location units="Millimeters" x="7.741" y="35.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D12" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="178.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D13" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="176.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D14" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="142.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D15" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="140.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D16" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="110.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D17" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="108.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D18" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="86.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D19" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="84.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D20" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="70.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D21" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="68.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D22" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="66.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D23" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="64.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D24" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="174.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D25" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="172.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D26" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="138.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D27" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="136.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D28" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="106.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D29" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="104.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D30" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="82.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D31" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="80.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D32" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="62.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D33" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="60.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D34" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="170.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D35" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="168.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D36" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="134.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D37" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="132.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D38" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="102.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D39" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="100.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D40" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="78.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D41" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="76.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D42" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="38.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D43" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="36.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D44" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="58.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D45" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="56.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D46" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="166.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D47" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="164.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D48" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="130.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D49" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="128.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D50" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="98.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D51" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="96.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D52" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="34.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D53" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="32.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D54" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="54.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D55" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="52.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D56" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="162.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D57" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="160.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D58" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="126.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D59" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="124.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D60" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="94.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D61" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="92.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D62" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="18.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D63" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="16.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D64" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="30.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D65" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="28.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D66" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="50.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D67" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="48.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D68" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="158.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D69" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="156.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D70" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="122.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D71" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="120.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D72" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="14.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D73" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="12.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D74" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="26.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D75" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="24.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D76" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="46.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D77" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="44.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D78" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="154.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D79" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="152.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D80" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="118.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D81" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="116.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D82" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="6.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D83" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="4.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D84" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="10.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D85" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="8.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D86" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="22.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D87" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="20.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D88" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="42.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D89" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="40.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D90" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="150.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D91" side="Top" part-id="LED_0603_1608Metric-~" type="Placement" enabled="true">
+         <location units="Millimeters" x="16.826" y="148.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D92" side="Top" part-id="LED_0603_1608Metric-LED_CHR" type="Placement" enabled="false">
+         <location units="Millimeters" x="7.741" y="38.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D93" side="Top" part-id="D_SOD-323-D_Schottky_Small" type="Placement" enabled="false">
+         <location units="Millimeters" x="23.541" y="9.191" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID1" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial_1mm_Mask2mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="32.341" y="8.1158" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID2" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial_1mm_Mask2mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="1.591" y="180.091" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID3" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial_1mm_Mask2mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="32.091" y="180.091" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID4" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial_1mm_Mask2mm" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="26.141" y="58.941" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="Q1" side="Top" part-id="SOT-23-BSS84" type="Placement" enabled="false">
+         <location units="Millimeters" x="10.2785" y="14.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R1" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="20.041" y="147.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R2" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.791" y="117.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R3" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.291" y="40.841" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R4" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="13.791" y="65.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R5" side="Top" part-id="R_0603_1608Metric-5,1kΩ" type="Placement" enabled="false">
+         <location units="Millimeters" x="29.216" y="7.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R6" side="Top" part-id="R_0603_1608Metric-5,1kΩ" type="Placement" enabled="false">
+         <location units="Millimeters" x="29.216" y="9.091" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R7" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.041" y="19.841" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R8" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="13.791" y="35.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R9" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.041" y="9.231" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R10" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="13.791" y="15.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R11" side="Top" part-id="R_0603_1608Metric-470-1K" type="Placement" enabled="false">
+         <location units="Millimeters" x="3.291" y="15.591" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R12" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="21.241" y="6.741" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R13" side="Top" part-id="R_0603_1608Metric-10kΩ" type="Placement" enabled="false">
+         <location units="Millimeters" x="31.041" y="44.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R14" side="Top" part-id="R_0603_1608Metric-22" type="Placement" enabled="false">
+         <location units="Millimeters" x="13.791" y="7.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R15" side="Top" part-id="R_0603_1608Metric-5,1K" type="Placement" enabled="false">
+         <location units="Millimeters" x="27.636" y="22.441" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R16" side="Top" part-id="R_0603_1608Metric-2K" type="Placement" enabled="false">
+         <location units="Millimeters" x="9.791" y="20.841" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R17" side="Top" part-id="R_0603_1608Metric-220" type="Placement" enabled="false">
+         <location units="Millimeters" x="12.291" y="19.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R18" side="Top" part-id="R_0603_1608Metric-100K" type="Placement" enabled="false">
+         <location units="Millimeters" x="10.041" y="11.241" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R19" side="Top" part-id="R_0603_1608Metric-5,1K" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.741" y="50.041" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R20" side="Top" part-id="R_0603_1608Metric-1-3K" type="Placement" enabled="false">
+         <location units="Millimeters" x="3.291" y="10.641" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R24" side="Top" part-id="R_0603_1608Metric-1k" type="Placement" enabled="false">
+         <location units="Millimeters" x="6.791" y="20.841" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R25" side="Top" part-id="R_0603_1608Metric-TBD" type="Placement" enabled="false">
+         <location units="Millimeters" x="31.441" y="26.941" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="R26" side="Top" part-id="R_0603_1608Metric-TBD" type="Placement" enabled="false">
+         <location units="Millimeters" x="29.941" y="26.941" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="REF1" side="Top" part-id="TestPoint_Loop_D3.80mm_Drill2.0mm-TestPoint_Loop_D3.80mm_Drill2.0mm" type="Placement" enabled="false">
+         <location units="Millimeters" x="29.591" y="137.091" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="REF2" side="Top" part-id="TestPoint_Loop_D3.80mm_Drill2.0mm-TestPoint_Loop_D3.80mm_Drill2.0mm" type="Placement" enabled="false">
+         <location units="Millimeters" x="29.591" y="97.091" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV1" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="25.291" y="9.2135" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV2" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="26.791" y="26.941" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV3" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="22.541" y="179.841" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV4" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="23.541" y="47.091" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV5" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="21.441" y="47.141" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV6" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.291" y="37.841" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV7" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.291" y="44.341" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV8" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.041" y="16.841" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV9" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="27.291" y="42.516" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV10" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="19.041" y="6.231" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV11" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="29.291" y="19.241" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV12" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="21.241" y="3.741" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="RV13" side="Top" part-id="R_0603_1608Metric-Varistor" type="Placement" enabled="false">
+         <location units="Millimeters" x="13.791" y="9.341" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="SW3" side="Top" part-id="SW_SPST_B3S-1000-SW_MEC_5G" type="Placement" enabled="false">
+         <location units="Millimeters" x="26.141" y="58.941" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U1" side="Top" part-id="QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm-ESP32-C3" type="Placement" enabled="false">
+         <location units="Millimeters" x="26.1535" y="33.341" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U2" side="Top" part-id="SOT-23-5-RT9080" type="Placement" enabled="false">
+         <location units="Millimeters" x="23.741" y="13.091" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U3" side="Top" part-id="DFN-6-1EP_2x2mm_P0.5mm_EP0.6x1.37mm-SL197-1" type="Placement" enabled="false">
+         <location units="Millimeters" x="3.291" y="13.0785" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U4" side="Top" part-id="SOT-23-5-MCP73831" type="Placement" enabled="false">
+         <location units="Millimeters" x="7.141" y="18.291" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U5" side="Top" part-id="Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm-W25Q32RVXHJQ" type="Placement" enabled="false">
+         <location units="Millimeters" x="23.441" y="39.541" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U6" side="Top" part-id="SOIC-8_3.9x4.9mm_P1.27mm-DS18B20Z" type="Placement" enabled="false">
+         <location units="Millimeters" x="27.241" y="117.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U7" side="Top" part-id="MSOP-8_3x3mm_P0.65mm-DS18B20U" type="Placement" enabled="false">
+         <location units="Millimeters" x="27.241" y="117.341" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="U8" side="Top" part-id="SOT-23-6-TTP233H-HA6" type="Placement" enabled="false">
+         <location units="Millimeters" x="26.541" y="179.641" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="Y1" side="Top" part-id="Crystal_SMD_2016-4Pin_2.0x1.6mm-Crystal" type="Placement" enabled="false">
+         <location units="Millimeters" x="20.791" y="31.341" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+   </placements>
+   <solder-paste-pads/>
+</openpnp-board>
